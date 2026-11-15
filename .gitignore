@@ -1,0 +1,50 @@
+# Compiler outputs
+*.o
+*.d
+*.a
+*.so
+*.dylib
+*.dSYM/
+
+# Exercise executables
+/cpp*/ex*/Animals
+/cpp*/ex*/BSP
+/cpp*/ex*/Brains
+/cpp*/ex*/Bureaucrat
+/cpp*/ex*/ClapTrap
+/cpp*/ex*/DiamondTrap
+/cpp*/ex*/Fixed
+/cpp*/ex*/FragTrap
+/cpp*/ex*/Identify
+/cpp*/ex*/MateriaFactory
+/cpp*/ex*/MutantStack
+/cpp*/ex*/PmergeMe
+/cpp*/ex*/RPN
+/cpp*/ex*/ScalarConverter
+/cpp*/ex*/ScavTrap
+/cpp*/ex*/Serializer
+/cpp*/ex*/Span
+/cpp*/ex*/Whatever
+/cpp*/ex*/Zombie
+/cpp*/ex*/account
+/cpp*/ex*/brain
+/cpp*/ex*/btc
+/cpp*/ex*/easyfind
+/cpp*/ex*/harl
+/cpp*/ex*/harlFilter
+/cpp*/ex*/megaphone
+/cpp*/ex*/phonebook
+/cpp*/ex*/sed
+/cpp*/ex*/weapon
+/cpp*/ex*/zombie_horde
+
+# Generated exercise files
+*_shrubbery
+*.replace
+
+# Local editor and OS files
+.DS_Store
+.vscode/
+.idea/
+*.swp
+*.swo
